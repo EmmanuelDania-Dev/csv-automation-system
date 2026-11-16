@@ -192,6 +192,11 @@ Building this project provided practical experience with:
 - Generating automated processing reports.
 - Designing reusable and maintainable data-processing functions.
 
+## Demo Recording
+
+This is a demo video of the project running successfully:
+https://drive.google.com/file/d/1rZM_ZKBGqXa3ESEitEfnzIItr9ZjeW5d/view?usp=sharing
+
 ## Author
 
 **Emmanuel Dania**
