@@ -86,10 +86,6 @@ def validate_employee_dataframe(df: pd.DataFrame) -> list[str]:
 
     return errors
 
-
-import time
-
-
 def read_csv_with_retry(
     filepath: Path,
     max_attempts: int = 3,
